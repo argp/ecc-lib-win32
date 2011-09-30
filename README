@@ -22,6 +22,8 @@ are using it in MSVC++ to compile new programs don't forget to define
 _NTRG_WIN32_, include the relevant header files and link against ecc.lib
 and gmp.lib.
 
+In the directory bin/ you can find a pre-compiled version.
+
 You can find ECC-LIB at:
 
 http://www.ceid.upatras.gr/faculty/zaro/software/ecc-lib/
