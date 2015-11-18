@@ -1,7 +1,6 @@
-ecc-lib-win32 - a Win32 port of ECC-LIB
-Patroklos Argyroudis <_ at domain argp.gr>
+# ecc-lib-win32 - a Win32 port of ECC-LIB
 
-Introduction
+## Introduction
 
 This is a collection of the files that I modified in order to get ECC-LIB
 (version 2.0) to compile on Windows 32.  Since ECC-LIB requires the GNU
@@ -10,7 +9,7 @@ of GMP, which can be found at the same place you downloaded this.  Also,
 I have only tested it on a Windows XP machine with MS Visual Studio .NET
 2003.
 
-Compilation and installation
+## Compilation and installation
 
 To compile it just copy the files provided here to the distribution
 directory of ECC-LIB 2.0 and overwrite the existing files there, then
@@ -28,8 +27,7 @@ You can find ECC-LIB at:
 
 http://www.ceid.upatras.gr/faculty/zaro/software/ecc-lib/
 
-Acknowledgements
+## Acknowledgements
 
 Elisavet Konstantinou, Yannis Stamatiou and Christos Zaroliagis, for a
 great library and for making their work available.
-
